@@ -1,5 +1,4 @@
-# -
-Здесь все про хаги <html>
+<html>
     <head>
         <title>Хагги-Вагги</title>
         <link rel="stylesheet" href="style.css"/>
@@ -339,4 +338,5 @@ background: #e36443;
 </footer>
  </body>
 
-</html>
+</html># -
+Здесь все про хаги ваги
